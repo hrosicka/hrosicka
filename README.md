@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hanka from Czech Republic. 
-- 🌱 I’m currently learning Python.
+- 🌱 My hobby is Python.
 
 <!---
 hrosicka/hrosicka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
