@@ -1,5 +1,5 @@
 ## Welcome to the world of creativity and functionality!
-Unlock a world of fun and engaging graphical user interface (GUI) applications built with Python and PyQt.
+Unlock a world of fun and engaging graphical user interface (GUI) applications built with **Python** and **PyQt**.
 
 I am an enthusiastic beginner programmer who is passionate about creating user-friendly applications.
 Although I am still learning and growing, my portfolio already includes:
