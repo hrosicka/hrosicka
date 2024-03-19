@@ -1,5 +1,5 @@
 ## Welcome to the world of creativity and functionality!
-
+Unlock a world of fun and engaging graphical user interface (GUI) applications built with Python and PyQt.
 I am an enthusiastic beginner programmer who is passionate about creating user-friendly applications.
 Although I am still learning and growing, my portfolio already includes:
 - **PyQt Calculator:** Perform basic arithmetic operations, maintain a history of your calculations, and save results for later use – all within the user-friendly PyQt Calculator.
