@@ -1,4 +1,4 @@
-# Welcome to the world of creativity and functionality!
+## Welcome to the world of creativity and functionality!
 
 I am an enthusiastic beginner programmer who is passionate about creating user-friendly applications.
 Although I am still learning and growing, my portfolio already includes:
