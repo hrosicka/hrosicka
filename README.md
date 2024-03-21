@@ -1,5 +1,5 @@
 ## Welcome to the world of creativity and functionality!
-Unlock a world of fun and engaging graphical user interface (GUI) applications built with **Python** and **PyQt**.
+Unlock a world of fun and engaging graphical user interface applications built with **Python** and **PyQt**.
 
 ### Window into my coding world:
 - **PyQt Calculator:** Perform basic arithmetic operations, maintain a history of your calculations, and save results for later use – all within the user-friendly PyQt Calculator.
