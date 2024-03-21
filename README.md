@@ -2,7 +2,7 @@
 Unlock a world of fun and engaging graphical user interface applications built with **Python** and **PyQt**.
 
 ### Window into my coding world:
-- **PyQt Calculator:** Perform basic arithmetic operations, maintain a history of your calculations, and save results for later use – all within the user-friendly PyQt Calculator.
+- **Simple Calculator:** Perform basic arithmetic operations, maintain a history of your calculations, and save results for later use – all within the user-friendly PyQt Calculator.
 - **Quadratic Equation Solver:** Say goodbye to complex calculations! Enter coefficients and see the equation, roots, and graph – all in one place.
 - **Interactive Shape Exploration:** Dive into the world of 2D and 3D shapes (still under development!).
 - **Python Turtle Playground:** Unleash your artistic side and code stunning drawings.
