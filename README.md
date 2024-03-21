@@ -7,7 +7,7 @@ Get inspired by engaging GUI examples created with "Python and PyQt".
 - **Interactive Shape Exploration:** Dive into the world of 2D and 3D shapes (still under development!).
 - **Python Turtle Playground:** Unleash your artistic side and code stunning drawings.
 - **BMI Calculator:** Maintain your health goals with this sleek and user-friendly app.
-- **Party Guest List App:** Plan your perfect party! This application provides a simple interface with powerful features to add, edit, and delete guests from your event's guest list.
+- **Party Guest List App:** Plan your perfect party! This code provides a simple interface with powerful features to add, edit, and delete guests from your event's guest list.
 
 
 <!---
