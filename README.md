@@ -1,5 +1,5 @@
 ## Welcome to the world of creativity and functionality!
-Get inspired by engaging code examples created with **Python** and PyQt.
+Get inspired by engaging code examples created with **Python** and PyQt, Tkinter etc.
 
 ### Window into my coding world:
 - **Simple Calculator:** Perform basic arithmetic operations, maintain a history of your calculations, and save results for later use – all within the user-friendly PyQt Calculator.
