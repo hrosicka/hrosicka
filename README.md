@@ -10,6 +10,7 @@ Get inspired by engaging code examples created with **Python**.
 - [**Party Guest List App:**](https://github.com/hrosicka/PyQtPartyList) Plan your perfect party! This code provides a simple interface with powerful features to add, edit, and delete guests from your event's guest list.
 - [**Guess Age:**](https://github.com/hrosicka/GuessAge) This application is a fun way to estimate your age based on your name using the Agify.io API. It is a simple example of how to use Tkinter to create a GUI application.
 - [**Crazy Basic Calculator:**](https://github.com/hrosicka/BasicCalculator) This calculator is more than just a tool for math, it's a visual delight with its fun color-changing feature!
+- [**Cat Guru:**](https://github.com/hrosicka/CatGuru) Bored? Ask Cat Guru for a random cat fact and be amazed! Based on Cat Facts API.
 
 
 
