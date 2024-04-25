@@ -12,6 +12,7 @@ Get inspired by engaging code examples created with **Python**.
 - [**Crazy Basic Calculator:**](https://github.com/hrosicka/BasicCalculator) This calculator is more than just a tool for math, it's a visual delight with its fun color-changing feature!
 - [**Cat Guru:**](https://github.com/hrosicka/CatGuru) Bored? Ask Cat Guru for a random cat fact and be amazed! Based on Cat Facts API.
 - [**Simple Selenium Example:**](https://github.com/hrosicka/SimpleSeleniumExample) Lazy? Automate Python website interactions with Selenium and Chrome webdriver - work smarter, not harder!
+- [**Cobol Basics:**](https://github.com/hrosicka/CobolBasics) Tired of Python? Try this! Calling all retro lovers, modern hipsters, and old-school programmers! Enjoy it!
 
 
 
