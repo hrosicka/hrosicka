@@ -4,7 +4,7 @@ Get inspired by engaging code examples created with **Python**.
 ### Window into my coding world:
 - [**Simple Calculator:**](https://github.com/hrosicka/SimpleCalculator) Perform basic arithmetic operations, maintain a history of your calculations, and save results for later use – all within the user-friendly Calculator.
 - [**Quadratic Equation Solver:**](https://github.com/hrosicka/QuadraticEquationSolver) Say goodbye to complex calculations! Enter coefficients and see the equation, roots, and graph – all in one place.
-- [**Math App:**](https://github.com/hrosicka/MathApp) Dive into the world of 2D and 3D shapes (still under development!).
+- [**Math App:**](https://github.com/hrosicka/MathApp) Dive into the world of 2D and 3D shapes (still under development!). This interactive application allows you to visualize and learn about various geometric shapes.
 - [**Python Turtle Playground:**](https://github.com/hrosicka/PythonBasicsTurtle) Unleash your artistic side and code stunning drawings.
 - [**BMI Calculator:**](https://github.com/hrosicka/BMICalculator) Maintain your health goals with this sleek and user-friendly app.
 - [**Party Guest List App:**](https://github.com/hrosicka/PyQtPartyList) Plan your perfect party! This code provides a simple interface with powerful features to add, edit, and delete guests from your event's guest list.
