@@ -14,7 +14,7 @@ Get inspired by engaging code examples created with **Python**.
 - [**Determinant:**](https://github.com/hrosicka/Determinant) Attention, mathematicians! Finally, a matrix determinant calculator that won't let you down.
 - [**Czech Population Estimation:**](https://github.com/hrosicka/CzechPopulationEstimation) Hop aboard our pandas time machine and journey through the Czech Republic's population data. 
 - [**Simple Selenium Example:**](https://github.com/hrosicka/SimpleSeleniumExample) Lazy? Automate Python website interactions with Selenium and Chrome webdriver - work smarter, not harder!
-- [**C++ Simple Console Applications:**](https://github.com/hrosicka/SimpleConsoleApplications) Welcome, aspiring programmers, to the ultimate treasure trove for budding C++ ninjas! This GitHub repository is your one-stop shop for embarking on an exhilarating journey into the world of console applications.
+- [**Baby's First Steps into C++:**](https://github.com/hrosicka/SimpleConsoleApplications) Welcome, aspiring programmers, to the ultimate treasure trove for budding C++ ninjas! This GitHub repository is your one-stop shop for embarking on an exhilarating journey into the world of console applications.
 - [**Cobol Basics:**](https://github.com/hrosicka/CobolBasics) Tired of Python? Try this! Calling all retro lovers, modern hipsters, and old-school programmers! Enjoy it!
 
 
