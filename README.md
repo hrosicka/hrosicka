@@ -11,6 +11,7 @@ Get inspired by engaging code examples created with **Python**, Java, C++ etc.
 - [**Guess Age:**](https://github.com/hrosicka/GuessAge) This application is a fun way to estimate your age based on your name using the Agify.io API. It is a simple example of how to use Tkinter to create a GUI application.
 - [**Crazy Basic Calculator:**](https://github.com/hrosicka/BasicCalculator) This calculator is more than just a tool for math, it's a visual delight with its fun color-changing feature!
 - [**Cat Guru:**](https://github.com/hrosicka/CatGuru) Bored? Ask Cat Guru for a random cat fact and be amazed! Based on Cat Facts API.
+- [**Dog Diary:**](https://github.com/hrosicka/DogDiary) Woof! This app is a paw-some way to see adorable doggos and discover fun facts about their feline friends.
 - [**Determinant:**](https://github.com/hrosicka/Determinant) Attention, mathematicians! Finally, a matrix determinant calculator that won't let you down.
 - [**Czech Population Estimation:**](https://github.com/hrosicka/CzechPopulationEstimation) Hop aboard our pandas time machine and journey through the Czech Republic's population data. 
 - [**Simple Selenium Example:**](https://github.com/hrosicka/SimpleSeleniumExample) Lazy? Automate Python website interactions with Selenium and Chrome webdriver - work smarter, not harder!
