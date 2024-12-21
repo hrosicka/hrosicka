@@ -8,7 +8,7 @@ Get inspired by engaging code examples created with **Python**, Java, C++ etc.
 - [**Python Turtle Playground:**](https://github.com/hrosicka/PythonBasicsTurtle) Unleash your artistic side and code stunning drawings.
 - [**BMI Calculator:**](https://github.com/hrosicka/BMICalculator) Maintain your health goals with this sleek and user-friendly app.
 - [**Party Guest List App:**](https://github.com/hrosicka/PyQtPartyList) Plan your perfect party! Say goodbye to handwritten lists and scattered notes! This code provides a simple interface with powerful features to add, export, and delete guests from your event's guest list.
-- [**Guess Age:**](https://github.com/hrosicka/GuessAge) This application is a fun way to estimate your age based on your name using the Agify.io API. It is a simple example of how to use Tkinter to create a GUI application.
+- [**Guess Age:**](https://github.com/hrosicka/GuessAge) This application is a fun way to estimate your age ⏳ based on your name using the Agify.io API. It is a simple example of how to use Tkinter to create a GUI application.
 - [**Crazy Basic Calculator:**](https://github.com/hrosicka/BasicCalculator) This calculator is more than just a tool for math, it's a visual delight with its fun color-changing feature!
 - [**Cat Guru:**](https://github.com/hrosicka/CatGuru) Bored? Ask Cat Guru for a random cat fact 🐱 and be amazed! Based on Cat Facts API.
 - [**Dog Diary:**](https://github.com/hrosicka/DogDiary) Woof! This app is a paw-some way to see adorable doggos 🐶🐾🐶 and discover fun facts about their feline 🐱 friends. Based on Cat Facts API and Dog API.
