@@ -11,7 +11,7 @@ Get inspired by engaging code examples created with **Python**, Java, C++ etc.
 - [**Guess Age:**](https://github.com/hrosicka/GuessAge) This application is a fun way to estimate your age based on your name using the Agify.io API. It is a simple example of how to use Tkinter to create a GUI application.
 - [**Crazy Basic Calculator:**](https://github.com/hrosicka/BasicCalculator) This calculator is more than just a tool for math, it's a visual delight with its fun color-changing feature!
 - [**Cat Guru:**](https://github.com/hrosicka/CatGuru) Bored? Ask Cat Guru for a random cat fact ᓚᘏᗢ and be amazed! Based on Cat Facts API.
-- [**Dog Diary:**](https://github.com/hrosicka/DogDiary) Woof! This app is a paw-some way to see adorable doggos and discover fun facts about their feline friends. Based on Cat Facts API and Dog API.
+- [**Dog Diary:**](https://github.com/hrosicka/DogDiary) Woof! This app is a paw-some way to see adorable doggos 🐶🐾🐶 and discover fun facts about their feline friends. Based on Cat Facts API and Dog API.
 - [**Determinant:**](https://github.com/hrosicka/Determinant) Attention, mathematicians! Finally, a matrix determinant calculator that won't let you down.
 - [**Name Challenge:**](https://github.com/hrosicka/NameChallenge) How well can you guess someone's gender just from their name? This snappy little game serves up random names and lets you put your intuition to the test. Based on Genderize.io API.
 - [**Czech Population Estimation:**](https://github.com/hrosicka/CzechPopulationEstimation) Hop aboard our pandas time machine and journey through the Czech Republic's population data. 
