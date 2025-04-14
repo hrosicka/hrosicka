@@ -2,6 +2,7 @@
 Get inspired by engaging code examples created with 🐍**Python**🐍, Java, C++ etc.
 
 ### Window into my coding world:
+- [**Simple Neural Network**](https://github.com/hrosicka/SimpleNeuralNetwork) Think of it as the "Hello, World!" of 🧠 neural networks 🕸️ – sweet, simple, and a necessary first step before tackling more complex challenges.
 - [**Simple Calculator:**](https://github.com/hrosicka/SimpleCalculator) Perform basic ➕➖ arithmetic ✖️➗ operations, maintain a history of your calculations, and save results for later use – all within the user-friendly Calculator.
 - [**Flask Cat Guru:**](https://github.com/hrosicka/FlaskCatGuru) Ever wondered what it's like to be your cat? This web app lets you find out! Based on Cat Facts API.
 - [**Flask Calculator:**](https://github.com/hrosicka/FlaskCalculator) This Flask-powered web calculator is so simple, even your 🐱cat🐱 could use it... probably.
