@@ -27,6 +27,10 @@ Get inspired by engaging code examples created with 🐍**Python**🐍, Java, C+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrosicka&layout=compact&langs_count=10&theme=default&card_width=400)](https://github.com/anuraghazra/github-readme-stats)  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrosicka&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrosicka&theme=default&hide_border=true)](https://github.com/ashutosh1919/github-readme-activity-graph)
+
+![Views Counter](https://views-counter.vercel.app/badge?pageId=hrosicka&style=plastic&color=blue)
+
 <!---
 hrosicka/hrosicka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
