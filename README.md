@@ -25,7 +25,7 @@ Get inspired by engaging code examples created with 🐍**Python**🐍, Java, C+
 - [**Baby's First Steps into C++:**](https://github.com/hrosicka/SimpleConsoleApplications) Welcome, aspiring programmers 🐣👶🏻🐣, to the ultimate treasure trove for budding C++ ninjas! This GitHub repository is your one-stop shop for embarking on an exhilarating journey into the world of console applications.
 - [**Cobol Basics:**](https://github.com/hrosicka/CobolBasics) Tired of Python? Try this! Calling all retro ☕📜🖋️ lovers 💕💘, modern hipsters, and 💾 old-school 💿 programmers! Enjoy it!
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrosicka&layout=compact&langs_count=8&theme=default&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 hrosicka/hrosicka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
