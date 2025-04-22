@@ -1,7 +1,7 @@
 ## Welcome to the world of creativity and functionality!
 Get inspired by engaging code examples created with 🐍**Python**🐍, Java, C++ etc.
 
-### Window into my coding world:
+### Window into my coding world
 - [**Simple Neural Network**](https://github.com/hrosicka/SimpleNeuralNetwork) Think of it as the "Hello, World!" of 🧠 neural networks 🕸️ – sweet, simple, and a necessary first step before tackling more complex challenges.
 - [**Simple Calculator:**](https://github.com/hrosicka/SimpleCalculator) Perform basic ➕➖ arithmetic ✖️➗ operations, maintain a history of your calculations, and save results for later use – all within the user-friendly Calculator.
 - [**Flask Cat Guru:**](https://github.com/hrosicka/FlaskCatGuru) Ever wondered what it's like to be your cat? This web app lets you find out! Based on Cat Facts API.
@@ -25,6 +25,7 @@ Get inspired by engaging code examples created with 🐍**Python**🐍, Java, C+
 - [**Baby's First Steps into C++:**](https://github.com/hrosicka/SimpleConsoleApplications) Welcome, aspiring programmers 🐣👶🏻🐣, to the ultimate treasure trove for budding C++ ninjas! This GitHub repository is your one-stop shop for embarking on an exhilarating journey into the world of console applications.
 - [**Cobol Basics:**](https://github.com/hrosicka/CobolBasics) Tired of Python? Try this! Calling all retro ☕📜🖋️ lovers 💕💘, modern hipsters, and 💾 old-school 💿 programmers! Enjoy it!
 
+### Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrosicka&layout=compact&langs_count=10&theme=default&card_width=400)](https://github.com/anuraghazra/github-readme-stats)  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrosicka&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrosicka&theme=github-light&hide_border=true)](https://github.com/ashutosh1919/github-readme-activity-graph)
