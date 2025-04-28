@@ -2,7 +2,7 @@
 Get inspired by engaging code examples created with 🐍**Python**🐍, Java, C++ etc.
 
 ### Window into my coding world
-- [**Word Detective**](https://github.com/hrosicka/GameWebWordHunt) This is a word-guessing game where your vocabulary meets technology! Powered by Python for backend logic and HTML/CSS for frontend, this app lets you not only guess words but also expand the database with your own. Whether you’re hunting for words or just toggling the dark mode, fun is just a click away!
+- [**Word Detective**](https://github.com/hrosicka/GameWebWordHunt) This is a word-guessing game where your vocabulary meets technology! Powered by Python for backend logic and HTML/CSS for frontend, this app lets you not only guess words but also expand the database with your own. Whether you’re hunting for words or just toggling the dark mode, fun is just a click away! Tests are implemented using Selenium.
 - [**Simple Neural Network**](https://github.com/hrosicka/SimpleNeuralNetwork) Think of it as the "Hello, World!" of 🧠 neural networks 🕸️ – sweet, simple, and a necessary first step before tackling more complex challenges.
 - [**Simple Calculator:**](https://github.com/hrosicka/SimpleCalculator) Perform basic ➕➖ arithmetic ✖️➗ operations, maintain a history of your calculations, and save results for later use – all within the user-friendly Calculator.
 - [**Flask Cat Guru:**](https://github.com/hrosicka/FlaskCatGuru) Ever wondered what it's like to be your cat? This web app lets you find out! Based on Cat Facts API.
