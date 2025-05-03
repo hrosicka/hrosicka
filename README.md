@@ -56,6 +56,8 @@ Get inspired by engaging code examples created with 🐍**Python**🐍, Java, C+
 
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=hrosicka&style=plastic&color=blue)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=hrosicka)](https://git.io/streak-stats)
+
 <!---
 hrosicka/hrosicka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
