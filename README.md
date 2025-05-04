@@ -18,6 +18,7 @@ Get inspired by engaging code examples created with 🐍**Python**🐍, Java, C+
   
 ### 🧮 Calculators
 - [**Simple Calculator:**](https://github.com/hrosicka/SimpleCalculator) Perform basic ➕➖ arithmetic ✖️➗ operations, maintain a history of your calculations, and save results for later use – all within the user-friendly Calculator.
+- [**Simple Kivy Calculator:**](https://github.com/hrosicka/KiviCalculator) This calculator 🧮 is a simple yet powerful calculator application built with the Kivy framework. It supports basic arithmetic operations, offers a clean and responsive interface, and ensures accurate calculations for everyday needs. Perfect for learning or quick calculations! 🚀
 - [**Java Calculator Galaxy:**](https://github.com/hrosicka/JavaCalcGalaxy) Looking for fun with programming and calculators? Then you're in the right place! This repository contains a collection of simple calculators in Java, perfect for beginners who want to dive into the world of programming.
 
 ### 🧠 Math application
