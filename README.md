@@ -11,6 +11,7 @@ Get inspired by engaging code examples created with 🐍**Python**🐍, Java, C+
 - [**Simple Neural Network**](https://github.com/hrosicka/SimpleNeuralNetwork) Think of it as the "Hello, World!" of 🧠 neural networks 🕸️ – sweet, simple, and a necessary first step before tackling more complex challenges.
 
 ### 🖥️ Web Applications
+- [**ToDoList:**](https://github.com/hrosicka/ToDoList) To-do list web application built with Django. ✅ Users can add, edit, mark as completed, and delete tasks. ✏️✔️❌ The application also features priority tagging 🔖, category assignment 🗂️, filtering by priority and category 🔍, sorting options 🔄, and CSV export functionality 📂. Styling is implemented using Bootstrap 🎨 and custom CSS.
 - [**Flask Cat Guru:**](https://github.com/hrosicka/FlaskCatGuru) Ever wondered what it's like to be your cat? This web app lets you find out! Based on Cat Facts API.
 - [**Flask Calculator:**](https://github.com/hrosicka/FlaskCalculator) This Flask-powered web calculator is so simple, even your 🐱cat🐱 could use it... probably. RESTful API, Logging, Swagger Documentation, Unit Tests. Learn / Try all of this out on this simple calculator.  
   
