@@ -40,7 +40,7 @@ Get inspired by engaging code examples created with 🐍**Python**🐍, Java, C+
 
 ### 📚 Education & Tutorials
 - [**Baby's First Steps into C++:**](https://github.com/hrosicka/SimpleConsoleApplications) Welcome, aspiring programmers 🐣👶🏻🐣, to the ultimate treasure trove for budding C++ ninjas! This GitHub repository is your one-stop shop for embarking on an exhilarating journey into the world of console applications.
-- [FirstDjangoCalculator_CZ](https://github.com/hrosicka/FirstDjangoCalculator_CZ) This repository contains a simple calculator application built using the Django framework. The tutorial and all accompanying documentation are written in Czech, making it an excellent resource for Czech speakers learning Django. Follow the step-by-step instructions to practice the fundamentals of this powerful framework.
+- [**FirstDjangoCalculator_CZ**](https://github.com/hrosicka/FirstDjangoCalculator_CZ) This repository contains a simple calculator application built using the Django framework. The tutorial and all accompanying documentation are written in Czech, making it an excellent resource for Czech speakers learning Django. Follow the step-by-step instructions to practice the fundamentals of this powerful framework.
 
 ### 💾 Retro Programming
 - [**Cobol Basics:**](https://github.com/hrosicka/CobolBasics) Tired of Python? Try this! Calling all retro ☕📜🖋️ lovers 💕💘, modern hipsters, and 💾 old-school 💿 programmers! Enjoy it!
