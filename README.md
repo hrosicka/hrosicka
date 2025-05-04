@@ -4,7 +4,8 @@ Get inspired by engaging code examples created with 🐍**Python**🐍, Java, C+
 ### Window into my coding world
 ### 🕹️ Games
 - [**Word Detective 🕵‍♀**](https://github.com/hrosicka/GameWebWordHunt) This is a word-guessing game 🔎 where your vocabulary meets technology! Powered by Python for backend logic and HTML/CSS for frontend, this app lets you not only guess words but also expand the database with your own. Whether you’re hunting for words or just toggling the dark mode, fun is just a click away! Tests are implemented using Selenium and unittest.
-- [**Tic Tac Toe:**](https://github.com/hrosicka/TicTacToe) Feeling nostalgic? Relive the joy of childhood with this Python implementation of ❌⭕ Tic Tac Toe. Complete with win tracking and a snazzy GUI!
+- [**Tic Tac Toe Web:**](https://github.com/hrosicka/TicTacToeWeb) 🎮 Relive the nostalgia of childhood with this web-based ❌⭕ Tic Tac Toe game, implemented in 🐍 Python with a sleek interface using 🎨 CSS, 💻 JavaScript, and 🌐 HTML.
+- [**Tic Tac Toe:**](https://github.com/hrosicka/TicTacToe) 🕹️ Enjoy a blast from the past with this ❌⭕ Tic Tac Toe game! Fully crafted in 🐍 Python, featuring win tracking and an intuitive graphical interface for hours of entertainment.
 
 ### 🧪 Machine Learning & AI
 - [**Simple Neural Network**](https://github.com/hrosicka/SimpleNeuralNetwork) Think of it as the "Hello, World!" of 🧠 neural networks 🕸️ – sweet, simple, and a necessary first step before tackling more complex challenges.
