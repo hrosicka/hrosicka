@@ -1,5 +1,5 @@
 ## Welcome to the world of creativity and functionality!
-Get inspired by engaging code examples created with 🐍**Python**, Java, C++ etc.
+Get inspired by engaging code created with 🐍Python, Django, Flask, Tkinter, Kivy, PyQt, Java, Swing, C++, Selenium, Cobol, and more.
 
 ### Window into my coding world
 ### 🕹️ Games
