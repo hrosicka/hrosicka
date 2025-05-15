@@ -64,6 +64,8 @@ Get inspired by engaging code examples created with 🐍**Python**🐍, Java, C+
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrosicka&theme=github-light&hide_border=true)](https://github.com/ashutosh1919/github-readme-activity-graph)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hrosicka&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=hrosicka&style=plastic&color=blue)
 
 
