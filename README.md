@@ -58,6 +58,8 @@ Get inspired by engaging code examples created with 🐍**Python**🐍, Java, C+
 ### 🔢 Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrosicka&layout=compact&langs_count=10&theme=default&card_width=400)](https://github.com/anuraghazra/github-readme-stats)  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrosicka&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=hrosicka&limit=5&theme=github-light&combine_all_yearly_contributions=true)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=hrosicka&theme=github-light)](https://git.io/streak-stats)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrosicka&theme=github-light&hide_border=true)](https://github.com/ashutosh1919/github-readme-activity-graph)
