@@ -1,11 +1,11 @@
 ## Welcome to the world of creativity and functionality!
-Get inspired by engaging code examples created with 🐍**Python**🐍, Java, C++ etc.
+Get inspired by engaging code examples created with 🐍**Python**, Java, C++ etc.
 
 ### Window into my coding world
 ### 🕹️ Games
-- [**Word Detective 🕵‍♀**](https://github.com/hrosicka/GameWebWordHunt) This is a word-guessing game 🔎 where your vocabulary meets technology! Powered by Python for backend logic and HTML/CSS for frontend, this app lets you not only guess words but also expand the database with your own. Whether you’re hunting for words or just toggling the dark mode, fun is just a click away! Tests are implemented using Selenium and unittest.
-- [**Tic Tac Toe Web:**](https://github.com/hrosicka/TicTacToeWeb) 🎮 Relive the nostalgia of childhood with this web-based ❌⭕ Tic Tac Toe game, implemented in 🐍 Python with a sleek interface using 🎨 CSS, 💻 JavaScript, and 🌐 HTML.
-- [**Tic Tac Toe:**](https://github.com/hrosicka/TicTacToe) 🕹️ Enjoy a blast from the past with this ❌⭕ Tic Tac Toe game! Fully crafted in 🐍 Python, featuring win tracking and an intuitive graphical interface for hours of entertainment.
+- [**Word Detective**](https://github.com/hrosicka/GameWebWordHunt) This is a word-guessing game 🔎 where your vocabulary meets technology! Powered by Python for backend logic and HTML/CSS for frontend, this app lets you not only guess words but also expand the database with your own. Whether you’re hunting for words or just toggling the dark mode, fun is just a click away! Tests are implemented using Selenium and unittest.
+- [**Tic Tac Toe Web:**](https://github.com/hrosicka/TicTacToeWeb) Relive the nostalgia of childhood with this web-based ❌⭕ Tic Tac Toe game, implemented in Python with a sleek interface using 🎨 CSS, 💻 JavaScript, and 🌐 HTML.
+- [**Tic Tac Toe:**](https://github.com/hrosicka/TicTacToe) 🕹️ Enjoy a blast from the past with this Tic Tac Toe game! Fully crafted in 🐍 Python, featuring win tracking and an intuitive graphical interface for hours of entertainment.
 
 ### 🧪 Machine Learning & AI
 - [**Simple Neural Network**](https://github.com/hrosicka/SimpleNeuralNetwork) Think of it as the "Hello, World!" of 🧠 neural networks 🕸️ – sweet, simple, and a necessary first step before tackling more complex challenges.
@@ -13,7 +13,7 @@ Get inspired by engaging code examples created with 🐍**Python**🐍, Java, C+
 ### 🖥️ Web Applications
 - [**ToDo List:**](https://github.com/hrosicka/ToDoList) To-do list web application built with Django. ✅ Users can add, edit, mark as completed, and delete tasks. ✏️✔️❌ The application also features priority tagging 🔖, category assignment 🗂️, filtering by priority and category 🔍, sorting options 🔄, and CSV export functionality 📂. Styling is implemented using Bootstrap 🎨 and custom CSS.
 - [**Flask Cat Guru:**](https://github.com/hrosicka/FlaskCatGuru) Ever wondered what it's like to be your cat? This web app lets you find out! Based on Cat Facts API.
-- [**Flask Calculator:**](https://github.com/hrosicka/FlaskCalculator) This Flask-powered web calculator is so simple, even your 🐱cat🐱 could use it... probably. RESTful API, Logging, Swagger Documentation, Unit Tests. Learn / Try all of this out on this simple calculator.
+- [**Flask Calculator:**](https://github.com/hrosicka/FlaskCalculator) This Flask-powered web calculator is so simple, even your 🐱cat could use it... probably. RESTful API, Logging, Swagger Documentation, Unit Tests. Learn / Try all of this out on this simple calculator.
 - [**Flask Qt Generator:**](https://github.com/hrosicka/FlaskQtGenerator) FlaskQtGenerator 🌟 is a project designed to generate QR codes quickly and efficiently 📱➡️📷. Built with Flask 🌐, it utilizes HTML 🖼️ and CSS 🎨 for a sleek and user-friendly interface. Say goodbye to manual QR code creation and let FlaskQtGenerator handle the magic! 🚀
   
 ### 🧮 Calculators
@@ -39,15 +39,15 @@ Get inspired by engaging code examples created with 🐍**Python**🐍, Java, C+
 
 ### 🐾 For Pet Lovers
 - [**Cat Guru:**](https://github.com/hrosicka/CatGuru) Bored? Ask Cat Guru for a random cat fact 🐱 and be amazed! Based on Cat Facts API.
-- [**Dog Diary:**](https://github.com/hrosicka/DogDiary) Woof! This app is a paw-some way to see adorable doggos 🐶🐾🐶 and discover fun facts about their feline 🐱 friends. Based on Cat Facts API and Dog API.
+- [**Dog Diary:**](https://github.com/hrosicka/DogDiary) Woof! This app is a paw-some way to see adorable doggos 🐶🐾 and discover fun facts about their feline 🐱 friends. Based on Cat Facts API and Dog API.
 
 ### 📚 Education & Tutorials
-- [**Baby's First Steps into C++:**](https://github.com/hrosicka/SimpleConsoleApplications) Welcome, aspiring programmers 🐣👶🏻🐣, to the ultimate treasure trove for budding C++ ninjas! This GitHub repository is your one-stop shop for embarking on an exhilarating journey into the world of console applications.
+- [**Baby's First Steps into C++:**](https://github.com/hrosicka/SimpleConsoleApplications) Welcome, aspiring programmers 🐣👶🏻, to the ultimate treasure trove for budding C++ ninjas! This GitHub repository is your one-stop shop for embarking on an exhilarating journey into the world of console applications.
 - [**FirstDjangoCalculator_CZ**](https://github.com/hrosicka/FirstDjangoCalculator_CZ) This repository contains a simple calculator application built using the Django framework. The tutorial and all accompanying documentation are written in Czech, making it an excellent resource for Czech speakers learning Django. Follow the step-by-step instructions to practice the fundamentals of this powerful framework.
 - [**Design Patterns in Python 🐍**](https://github.com/hrosicka/DesignPatternsPython) - 🧠 Writing spaghetti 🤦‍♂️🍝 code is so last season. Start mastering the art of clean, reusable code with examples that'll make your inner developer proud! 💡
 
 ### 💾 Retro Programming
-- [**Cobol Basics:**](https://github.com/hrosicka/CobolBasics) Tired of Python? Try this! Calling all retro ☕📜🖋️ lovers 💕💘, modern hipsters, and 💾 old-school 💿 programmers! Enjoy it!
+- [**Cobol Basics:**](https://github.com/hrosicka/CobolBasics) Tired of Python? Try this! Calling all retro ☕📜🖋️ lovers 💘, modern hipsters, and 💾 old-school 💿 programmers! Enjoy it!
 
 ### 📊 Data Analysis
 - [**Czech Population Estimation:**](https://github.com/hrosicka/CzechPopulationEstimation) Hop aboard our pandas🐼 time machine and journey through the Czech Republic's population👨‍👩‍👧‍👦 data. 
