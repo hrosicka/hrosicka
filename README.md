@@ -44,7 +44,8 @@ Get inspired by engaging code created with 🐍Python, Django, Flask, Tkinter, K
 ### 📚 Education & Tutorials
 - [**Baby's First Steps into C++:**](https://github.com/hrosicka/SimpleConsoleApplications) Welcome, aspiring programmers 🐣👶🏻, to the ultimate treasure trove for budding C++ ninjas! This GitHub repository is your one-stop shop for embarking on an exhilarating journey into the world of console applications.
 - [**FirstDjangoCalculator_CZ**](https://github.com/hrosicka/FirstDjangoCalculator_CZ) This repository contains a simple calculator application built using the Django framework. The tutorial and all accompanying documentation are written in Czech, making it an excellent resource for Czech speakers learning Django. Follow the step-by-step instructions to practice the fundamentals of this powerful framework.
-- [**Design Patterns in Python 🐍**](https://github.com/hrosicka/DesignPatternsPython) - 🧠 Writing spaghetti 🤦‍♂️🍝 code is so last season. Start mastering the art of clean, reusable code with examples that'll make your inner developer proud! 💡
+- [**Design Patterns in Python 🐍:**](https://github.com/hrosicka/DesignPatternsPython) 🧠 Writing spaghetti 🤦‍♂️🍝 code is so last season. Start mastering the art of clean, reusable code with examples that'll make your inner developer proud! 💡
+- [**Simple Server in Go:**](https://github.com/hrosicka/SimpleServer) Cheerful HTTP server in Go-perfect for beginners and curious coders! Get instant JSON greetings, echo your data, or try a friendly POST. Fast, minimal, and always ready to say "hello". 🚀👋
 
 ### 💾 Retro Programming
 - [**Cobol Basics:**](https://github.com/hrosicka/CobolBasics) Tired of Python? Try this! Calling all retro ☕📜🖋️ lovers 💘, modern hipsters, and 💾 old-school 💿 programmers! Enjoy it!
