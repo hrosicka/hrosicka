@@ -58,7 +58,7 @@ Get inspired by engaging code created with 🐍Python, Django, Flask, Tkinter, K
 - [**Simple Selenium Example:**](https://github.com/hrosicka/SimpleSeleniumExample) Lazy🐌? Automate Python website interactions with Selenium and Chrome webdriver - work smarter🧠, not harder💪!
 
 ### 🔢 Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrosicka&layout=compact&langs_count=9&theme=default&card_width=400)](https://github.com/anuraghazra/github-readme-stats)  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrosicka&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrosicka&layout=compact&langs_count=10&theme=default&card_width=400)](https://github.com/anuraghazra/github-readme-stats)  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrosicka&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=hrosicka&limit=5&theme=github-light&combine_all_yearly_contributions=true)
 
