@@ -11,10 +11,10 @@ Get inspired by engaging code created with 🐍Python, Django, Flask, Tkinter, K
 - [**Simple Neural Network**](https://github.com/hrosicka/SimpleNeuralNetwork) Think of it as the "Hello, World!" of 🧠 neural networks 🕸️ – sweet, simple, and a necessary first step before tackling more complex challenges.
 
 ### 🖥️ Web Applications
-- [**ToDo List:**](https://github.com/hrosicka/ToDoList) To-do list web application built with Django. ✅ Users can add, edit, mark as completed, and delete tasks. ✏️✔️❌ The application also features priority tagging 🔖, category assignment 🗂️, filtering by priority and category 🔍, sorting options 🔄, and CSV export functionality 📂. Styling is implemented using Bootstrap 🎨 and custom CSS.
+- [**ToDo List:**](https://github.com/hrosicka/ToDoList) To-do list web application built with Django. ✅ Users can add, edit, mark as completed, and delete tasks. ✏️✔️❌ The application also features priority tagging 🔖, category assignment 🗂️, filtering by priority and category 🔍, sorting options 🔄, and CSV export functionality 📂. Styling is implemented using Bootstrap and custom CSS.
 - [**Flask Cat Guru:**](https://github.com/hrosicka/FlaskCatGuru) Ever wondered what it's like to be your cat? This web app lets you find out! Based on Cat Facts API.
 - [**Flask Calculator:**](https://github.com/hrosicka/FlaskCalculator) This Flask-powered web calculator is so simple, even your 🐱cat could use it... probably. RESTful API, Logging, Swagger Documentation, Unit Tests. Learn / Try all of this out on this simple calculator.
-- [**QR Code Generator:**](https://github.com/hrosicka/FlaskQtGenerator) This project is designed to generate QR codes quickly and efficiently 📱➡️📷. Built with Flask 🌐, it utilizes HTML 🖼️ and CSS 🎨 for a sleek and user-friendly interface. Say goodbye to manual QR code creation and let this cool app handle the magic! 🚀
+- [**QR Code Generator:**](https://github.com/hrosicka/FlaskQtGenerator) This project is designed to generate QR codes quickly and efficiently. Built with Flask 🌐, it utilizes HTML 🖼️ and CSS 🎨 for a sleek and user-friendly interface. Say goodbye to manual QR code creation and let this cool app handle the magic! 🚀
   
 ### 🧮 Calculators
 - [**Simple Calculator:**](https://github.com/hrosicka/SimpleCalculator) Perform basic ➕➖ arithmetic ✖️➗ operations, maintain a history of your calculations, and save results for later use – all within the user-friendly Calculator.
@@ -23,7 +23,7 @@ Get inspired by engaging code created with 🐍Python, Django, Flask, Tkinter, K
 
 ### 🧠 Math application
 - [**Quadratic Equation Solver:**](https://github.com/hrosicka/QuadraticEquationSolver) Say goodbye to complex calculations! Enter coefficients and see the equation, roots, and 📉 graph – all in one place.
-- [**Math App:**](https://github.com/hrosicka/MathApp) Dive into the world of 2D and 3D shapes (still under development!). This interactive application allows you to visualize and learn about various 📐 geometric 📏 shapes.
+- [**Math App:**](https://github.com/hrosicka/MathApp) Dive into the world of 2D and 3D shapes (still under development!). This interactive application allows you to visualize and learn about various geometric 📏 shapes.
 - [**Determinant:**](https://github.com/hrosicka/Determinant) Attention, mathematicians! Finally, a matrix determinant calculator that won't let you down.
 
 ### 🎉 Funny Apps
@@ -35,7 +35,7 @@ Get inspired by engaging code created with 🐍Python, Django, Flask, Tkinter, K
 - [**Party Guest List App:**](https://github.com/hrosicka/PyQtPartyList) Plan your perfect °🥂⋆.ೃ🍾࿔ party! Say goodbye to handwritten ✍🏻 lists 📝 and scattered notes! This code provides a simple interface with powerful features to add, export, and delete guests from your event's guest list.
 
 ### 🍏 Health & Wellness
-- [**BMI Calculator:**](https://github.com/hrosicka/BMICalculator) Maintain your health 🍏💪🌱🍎 goals with this sleek and user-friendly app.
+- [**BMI Calculator:**](https://github.com/hrosicka/BMICalculator) Maintain your health 🍏💪🍎 goals with this sleek and user-friendly app.
 
 ### 🐾 For Pet Lovers
 - [**Cat Guru:**](https://github.com/hrosicka/CatGuru) Bored? Ask Cat Guru for a random cat fact 🐱 and be amazed! Based on Cat Facts API.
@@ -44,12 +44,12 @@ Get inspired by engaging code created with 🐍Python, Django, Flask, Tkinter, K
 ### 📚 Education & Tutorials
 - [**Baby's First Steps into C++:**](https://github.com/hrosicka/SimpleConsoleApplications) Welcome, aspiring programmers 🐣👶🏻, to the ultimate treasure trove for budding C++ ninjas! This GitHub repository is your one-stop shop for embarking on an exhilarating journey into the world of console applications.
 - [**FirstDjangoCalculator_CZ**](https://github.com/hrosicka/FirstDjangoCalculator_CZ) This repository contains a simple calculator application built using the Django framework. The tutorial and all accompanying documentation are written in Czech, making it an excellent resource for Czech speakers learning Django. Follow the step-by-step instructions to practice the fundamentals of this powerful framework.
-- [**Design Patterns in Python 🐍:**](https://github.com/hrosicka/DesignPatternsPython) 🧠 Writing spaghetti 🤦‍♂️🍝 code is so last season. Start mastering the art of clean, reusable code with examples that'll make your inner developer proud! 💡
+- [**Design Patterns in Python 🐍:**](https://github.com/hrosicka/DesignPatternsPython) 🧠 Writing spaghetti 🤦‍♂️ code is so last season. Start mastering the art of clean, reusable code with examples that'll make your inner developer proud! 💡
 - [**Guess My Number in Go:**](https://github.com/hrosicka/GuessMyNumber) 🎲 Tutorial for complete beginners 🎲. Let’s learn the basics by creating a simple number guessing game.
 - [**Simple Server in Go:**](https://github.com/hrosicka/SimpleServer) Cheerful HTTP server in Go-perfect for beginners and curious coders! Get instant JSON greetings, echo your data, or try a friendly POST. Fast, minimal, and always ready to say "hello". 🚀👋
 
 ### 💾 Retro Programming
-- [**Cobol Basics:**](https://github.com/hrosicka/CobolBasics) Tired of Python? Try this! Calling all retro ☕📜🖋️ lovers 💘, modern hipsters, and 💾 old-school 💿 programmers! Enjoy it!
+- [**Cobol Basics:**](https://github.com/hrosicka/CobolBasics) Tired of Python? Try this! Calling all retro ☕📜🖋️ lovers 💘, modern hipsters, and 💾 old-school programmers! Enjoy it!
 
 ### 📊 Data Analysis
 - [**Czech Population Estimation:**](https://github.com/hrosicka/CzechPopulationEstimation) Hop aboard our pandas🐼 time machine and journey through the Czech Republic's population👨‍👩‍👧‍👦 data. 
