@@ -1,4 +1,10 @@
 ## Welcome to the world of creativity and functionality!
+
+![GitHub User](https://img.shields.io/badge/GitHub-hrosicka-blue?logo=github)
+![Code: Python](https://img.shields.io/badge/code-python-blue?logo=python)
+![Active User](https://img.shields.io/badge/status-active-brightgreen)
+![Czech Developer](https://img.shields.io/badge/czech-developer-red?logo=github)
+
 Get inspired by engaging code created with 🐍Python, Django, Flask, Tkinter, Kivy, PyQt, Java, Swing, C++, Selenium, Cobol, and more.
 
 ### Window into my coding world
