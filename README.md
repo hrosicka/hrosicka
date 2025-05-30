@@ -19,7 +19,7 @@ Get inspired by engaging code created with 🐍Python, Django, Flask, Tkinter, K
 ### 🖥️ Web Applications
 - [**ToDo List:**](https://github.com/hrosicka/ToDoList) To-do list web application built with Django. ✅ Users can add, edit, mark as completed, and delete tasks. ✏️✔️❌ The application also features priority tagging 🔖, category assignment 🗂️, filtering by priority and category 🔍, sorting options 🔄, and CSV export functionality 📂. Styling is implemented using Bootstrap and custom CSS.
 - [**Flask Cat Guru:**](https://github.com/hrosicka/FlaskCatGuru) Ever wondered what it's like to be your cat? This web app lets you find out! Based on Cat Facts API.
-- [**Flask Calculator:**](https://github.com/hrosicka/FlaskCalculator) This Flask-powered web calculator is so simple, even your 🐱cat could use it... probably. RESTful API, Logging, Swagger Documentation, Unit Tests. Learn / Try all of this out on this simple calculator.
+- [**Flask Calculator:**](https://github.com/hrosicka/FlaskCalculator) This Flask-powered web calculator is so simple, even your 🐱 could use it... probably. RESTful API, Logging, Swagger Documentation, Unit Tests, Playwright End-to-End Tests. Learn / Try all of this out on this simple calculator.
 - [**QR Code Generator:**](https://github.com/hrosicka/FlaskQtGenerator) This project is designed to generate QR codes quickly and efficiently. Built with Flask 🌐, it utilizes HTML 🖼️ and CSS 🎨 for a sleek and user-friendly interface. Say goodbye to manual QR code creation and let this cool app handle the magic! 🚀
   
 ### 🧮 Calculators
