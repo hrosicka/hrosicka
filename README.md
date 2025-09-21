@@ -31,6 +31,7 @@ Get inspired by engaging code created with 🐍Python, Django, Flask, Tkinter, K
 - [**Quadratic Equation Solver:**](https://github.com/hrosicka/QuadraticEquationSolver) Say goodbye to complex calculations! Enter coefficients and see the equation, roots, and 📉 graph – all in one place.
 - [**Math App:**](https://github.com/hrosicka/MathApp) Dive into the world of 2D and 3D shapes (still under development!). This interactive application allows you to visualize and learn about various geometric 📏 shapes.
 - [**Determinant:**](https://github.com/hrosicka/Determinant) Attention, mathematicians! Finally, a matrix determinant calculator that won't let you down.
+- [**Damped Harmonic Oscillator Simulation:**](https://github.com/hrosicka/damped-oscillation-simulation)) C programs that simulate a damped harmonic oscillator, a fundamental concept in physics and engineering. Data visualisation is done using a Python script with the popular matplotlib library. 
 
 ### 🎉 Funny Apps
 - [**Python Turtle Playground:**](https://github.com/hrosicka/PythonBasicsTurtle) Unleash your artistic 🎨 side and code stunning drawings.
