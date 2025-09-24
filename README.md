@@ -45,6 +45,7 @@ Get inspired by engaging code created with 🐍Python, Django, Flask, Tkinter, K
 
 ### 🛠️ Practical Tools
 - [**GitHub Follower Analyzer:**](https://github.com/hrosicka/github-follower-analyzer) Track, analyze, and compare followers with ease—no magnifying glass required. Perfect for curious coders, data enthusiasts, and anyone who’s ever wondered, “Who’s watching me code?” 👀
+- [**Windows Tasks with PowerShell:**](https://github.com/hrosicka/windows-tasks-with-PS) A collection of practical PowerShell scripts for automating and managing common Windows system tasks.
 
 ### 🍏 Health & Wellness
 - [**BMI Calculator:**](https://github.com/hrosicka/BMICalculator) Maintain your health 🍏💪🍎 goals with this sleek and user-friendly app.
