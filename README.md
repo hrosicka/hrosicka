@@ -27,11 +27,12 @@ Get inspired by engaging code created with 🐍Python, Django, Flask, Tkinter, K
 - [**Simple Kivy Calculator:**](https://github.com/hrosicka/KiviCalculator) This calculator 🧮 is a simple yet powerful calculator application built with the Kivy framework. It supports basic arithmetic operations, offers a clean and responsive interface, and ensures accurate calculations for everyday needs. Perfect for learning or quick calculations! 🚀
 - [**Java Calculator Galaxy:**](https://github.com/hrosicka/JavaCalcGalaxy) Looking for fun with programming and calculators? Then you're in the right place! This repository contains a collection of simple calculators in Java, perfect for beginners who want to dive into the world of programming.
 
-### 🧠 Math application
+### 🧠 Math and Physics Applications
 - [**Quadratic Equation Solver:**](https://github.com/hrosicka/QuadraticEquationSolver) Say goodbye to complex calculations! Enter coefficients and see the equation, roots, and 📉 graph – all in one place.
 - [**Math App:**](https://github.com/hrosicka/MathApp) Dive into the world of 2D and 3D shapes (still under development!). This interactive application allows you to visualize and learn about various geometric 📏 shapes.
 - [**Determinant:**](https://github.com/hrosicka/Determinant) Attention, mathematicians! Finally, a matrix determinant calculator that won't let you down.
-- [**Damped Harmonic Oscillator Simulation:**](https://github.com/hrosicka/damped-oscillation-simulation) C programs that simulate a damped harmonic oscillator, a fundamental concept in physics and engineering. Data visualisation is done using a Python script with the popular matplotlib library. 
+- [**Damped Harmonic Oscillator Simulation:**](https://github.com/hrosicka/damped-oscillation-simulation) C programs that simulate a damped harmonic oscillator, a fundamental concept in physics and engineering. Data visualisation is done using a Python script with the popular matplotlib library.
+- [**Collatz Conjecture:**](https://github.com/hrosicka/collatz-conjecture) Simple C program to explore the Collatz Conjecture. The program computes the Collatz sequence for a user-supplied positive integer and displays both the sequence and the highest number reached during the process.
 
 ### 🎉 Funny Apps
 - [**Python Turtle Playground:**](https://github.com/hrosicka/PythonBasicsTurtle) Unleash your artistic 🎨 side and code stunning drawings.
