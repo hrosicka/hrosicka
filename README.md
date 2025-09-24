@@ -42,6 +42,8 @@ Get inspired by engaging code created with 🐍Python, Django, Flask, Tkinter, K
 - [**Crazy Basic Calculator:**](https://github.com/hrosicka/BasicCalculator) This calculator is more than just a tool for math, it's a visual delight with its fun color-changing feature!
 - [**Java Color Mixer:**](https://github.com/hrosicka/ColorMixer) Explore the infinite spectrum of colors by adjusting red, green, and blue sliders in this intuitive Swing-based Java application, perfect for beginners and experienced color enthusiasts alike.
 - [**Party Guest List App:**](https://github.com/hrosicka/PyQtPartyList) Plan your perfect °🥂⋆.ೃ🍾࿔ party! Say goodbye to handwritten ✍🏻 lists 📝 and scattered notes! This code provides a simple interface with powerful features to add, export, and delete guests from your event's guest list.
+
+### 🛠️ Practical Tools
 - [**GitHub Follower Analyzer:**](https://github.com/hrosicka/github-follower-analyzer) Track, analyze, and compare followers with ease—no magnifying glass required. Perfect for curious coders, data enthusiasts, and anyone who’s ever wondered, “Who’s watching me code?” 👀
 
 ### 🍏 Health & Wellness
@@ -67,6 +69,8 @@ Get inspired by engaging code created with 🐍Python, Django, Flask, Tkinter, K
 ### 🧪 Testing & Automation
 - [**Simple Selenium Example:**](https://github.com/hrosicka/SimpleSeleniumExample) Lazy🐌? Automate Python website interactions with Selenium and Chrome webdriver - work smarter🧠, not harder💪!
 - [**Robot Framework meets Python!**](https://github.com/hrosicka/robot-framework-examples) A collection of automated tests for math, squares, and quadratic equations—because calculators need friends too.
+
+---
 
 ### 🔢 Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrosicka&layout=compact&langs_count=14&theme=default&card_width=400)](https://github.com/anuraghazra/github-readme-stats)  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrosicka&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
