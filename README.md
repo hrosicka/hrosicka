@@ -12,6 +12,7 @@ Get inspired by engaging code created with 🐍Python, Django, Flask, Tkinter, K
 - [**Word Detective**](https://github.com/hrosicka/GameWebWordHunt) This is a word-guessing game 🔎 where your vocabulary meets technology! Powered by Python for backend logic and HTML/CSS for frontend, this app lets you not only guess words but also expand the database with your own. Whether you’re hunting for words or just toggling the dark mode, fun is just a click away! Tests are implemented using Selenium and unittest.
 - [**Tic Tac Toe Web:**](https://github.com/hrosicka/TicTacToeWeb) Relive the nostalgia of childhood with this web-based ❌⭕ Tic Tac Toe game, implemented in Python with a sleek interface using 🎨 CSS, 💻 JavaScript, and 🌐 HTML.
 - [**Tic Tac Toe:**](https://github.com/hrosicka/TicTacToe) 🕹️ Enjoy a blast from the past with this Tic Tac Toe game! Fully crafted in 🐍 Python, featuring win tracking and an intuitive graphical interface for hours of entertainment.
+- [**Game of Life:**](https://github.com/hrosicka/game-of-life) Welcome to this fun and interactive project — an implementation of the famous Conway's Game of Life in C! This repository allows you to dive into the fascinating world of cellular automata and observe how complex patterns emerge from simple rules.
 
 ### 🧪 Machine Learning & AI
 - [**Simple Neural Network**](https://github.com/hrosicka/SimpleNeuralNetwork) Think of it as the "Hello, World!" of 🧠 neural networks 🕸️ – sweet, simple, and a necessary first step before tackling more complex challenges.
