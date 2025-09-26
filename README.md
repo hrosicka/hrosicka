@@ -1,5 +1,6 @@
 ## Welcome to the world of creativity and functionality!
 
+[![committers.top badge](https://user-badge.committers.top/czech_republic/hrosicka.svg)](https://user-badge.committers.top/czech_republic/hrosicka)
 ![GitHub User](https://img.shields.io/badge/GitHub-hrosicka-blue?logo=github)
 ![Code: Python](https://img.shields.io/badge/code-python-blue?logo=python)
 ![Active User](https://img.shields.io/badge/status-active-brightgreen)
