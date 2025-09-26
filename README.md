@@ -34,6 +34,7 @@ Get inspired by engaging code created with 🐍Python, Django, Flask, Tkinter, K
 - [**Determinant:**](https://github.com/hrosicka/Determinant) Attention, mathematicians! Finally, a matrix determinant calculator that won't let you down.
 - [**Damped Harmonic Oscillator Simulation:**](https://github.com/hrosicka/damped-oscillation-simulation) C programs that simulate a damped harmonic oscillator, a fundamental concept in physics and engineering. Data visualisation is done using a Python script with the popular matplotlib library.
 - [**Collatz Conjecture:**](https://github.com/hrosicka/collatz-conjecture) Simple C program to explore the Collatz Conjecture. The program computes the Collatz sequence for a user-supplied positive integer and displays both the sequence and the highest number reached during the process.
+- [**Prime Number Checker:**](https://github.com/hrosicka/prime-number) A simple Rust command-line application for checking whether a given number is a prime number.
 
 ### 🎉 Funny Apps
 - [**Python Turtle Playground:**](https://github.com/hrosicka/PythonBasicsTurtle) Unleash your artistic 🎨 side and code stunning drawings.
