@@ -10,13 +10,16 @@ Get inspired by engaging code created with 🐍Python, Django, Flask, Tkinter, K
 
 ### Window into my coding world
 ### 🕹️ Games
-- [**Word Detective**](https://github.com/hrosicka/GameWebWordHunt) This is a word-guessing game 🔎 where your vocabulary meets technology! Powered by Python for backend logic and HTML/CSS for frontend, this app lets you not only guess words but also expand the database with your own. Whether you’re hunting for words or just toggling the dark mode, fun is just a click away! Tests are implemented using Selenium and unittest.
+- [**Word Detective:**](https://github.com/hrosicka/GameWebWordHunt) This is a word-guessing game 🔎 where your vocabulary meets technology! Powered by Python for backend logic and HTML/CSS for frontend, this app lets you not only guess words but also expand the database with your own. Whether you’re hunting for words or just toggling the dark mode, fun is just a click away! Tests are implemented using Selenium and unittest.
 - [**Tic Tac Toe Web:**](https://github.com/hrosicka/TicTacToeWeb) Relive the nostalgia of childhood with this web-based ❌⭕ Tic Tac Toe game, implemented in Python with a sleek interface using 🎨 CSS, 💻 JavaScript, and 🌐 HTML.
 - [**Tic Tac Toe:**](https://github.com/hrosicka/TicTacToe) 🕹️ Enjoy a blast from the past with this Tic Tac Toe game! Fully crafted in 🐍 Python, featuring win tracking and an intuitive graphical interface for hours of entertainment.
 - [**Game of Life:**](https://github.com/hrosicka/game-of-life) Welcome to this fun and interactive project — an implementation of the famous Conway's Game of Life in C! This repository allows you to dive into the fascinating world of cellular automata and observe how complex patterns emerge from simple rules.
 
+### 🤖 Android
+- [**Great Weekend:**](https://github.com/hrosicka/great-weekend) An Android application built with Flutter that serves as a personal idea generator for shared activities. No more endless debating on what to do – just one click and you're ready to go! An excellent resource for Czech speakers.
+
 ### 🧪 Machine Learning & AI
-- [**Simple Neural Network**](https://github.com/hrosicka/SimpleNeuralNetwork) Think of it as the "Hello, World!" of 🧠 neural networks 🕸️ – sweet, simple, and a necessary first step before tackling more complex challenges.
+- [**Simple Neural Network:**](https://github.com/hrosicka/SimpleNeuralNetwork) Think of it as the "Hello, World!" of 🧠 neural networks 🕸️ – sweet, simple, and a necessary first step before tackling more complex challenges.
 
 ### 🖥️ Web Applications
 - [**ToDo List:**](https://github.com/hrosicka/ToDoList) To-do list web application built with Django. ✅ Users can add, edit, mark as completed, and delete tasks. ✏️✔️❌ The application also features priority tagging 🔖, category assignment 🗂️, filtering by priority and category 🔍, sorting options 🔄, and CSV export functionality 📂. Styling is implemented using Bootstrap and custom CSS.
@@ -59,7 +62,7 @@ Get inspired by engaging code created with 🐍Python, Django, Flask, Tkinter, K
 
 ### 📚 Education & Tutorials
 - [**Baby's First Steps into C++:**](https://github.com/hrosicka/SimpleConsoleApplications) Welcome, aspiring programmers 🐣👶🏻, to the ultimate treasure trove for budding C++ ninjas! This GitHub repository is your one-stop shop for embarking on an exhilarating journey into the world of console applications.
-- [**FirstDjangoCalculator_CZ**](https://github.com/hrosicka/FirstDjangoCalculator_CZ) This repository contains a simple calculator application built using the Django framework. The tutorial and all accompanying documentation are written in Czech, making it an excellent resource for Czech speakers learning Django. Follow the step-by-step instructions to practice the fundamentals of this powerful framework.
+- [**FirstDjangoCalculator_CZ**:](https://github.com/hrosicka/FirstDjangoCalculator_CZ) This repository contains a simple calculator application built using the Django framework. The tutorial and all accompanying documentation are written in Czech, making it an excellent resource for Czech speakers learning Django. Follow the step-by-step instructions to practice the fundamentals of this powerful framework.
 - [**Design Patterns in Python 🐍:**](https://github.com/hrosicka/DesignPatternsPython) 🧠 Writing spaghetti 🤦‍♂️ code is so last season. Start mastering the art of clean, reusable code with examples that'll make your inner developer proud! 💡
 - [**Guess My Number in Go:**](https://github.com/hrosicka/GuessMyNumber) 🎲 Tutorial for complete beginners 🎲. Let’s learn the basics by creating a simple number guessing game.
 - [**Simple Server in Go:**](https://github.com/hrosicka/SimpleServer) Cheerful HTTP server in Go-perfect for beginners and curious coders! Get instant JSON greetings, echo your data, or try a friendly POST. Fast, minimal, and always ready to say "hello". 🚀👋
