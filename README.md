@@ -1,14 +1,20 @@
 # Welcome to the world of creativity and functionality!
 
 <p align="center">
-  <a href="https://user-badge.committers.top/czech_republic/hrosicka">
-    <table>
-      <tr>
-        <td><img src="https://img.shields.io/badge/TOP_COMMITTER-Czech_Republic-d7141a?style=for-the-badge&logo=github" alt="Top Committer"/></td>
-        <td><img src="https://user-badge.committers.top/czech_republic/hrosicka.svg" alt="Rank" height="28" style="vertical-align: middle;"/></td>
-      </tr>
-    </table>
-  </a>
+  <table border="0" cellpadding="0" cellspacing="0" style="border: none !important; border-collapse: collapse;">
+    <tr>
+      <td style="border: none; padding: 0;">
+        <a href="https://user-badge.committers.top/czech_republic/hrosicka">
+          <img src="https://img.shields.io/badge/TOP_COMMITTER-Czech_Republic-d7141a?style=for-the-badge&logo=github" alt="Top Committer"/>
+        </a>
+      </td>
+      <td style="border: none; padding: 0; padding-left: 5px;">
+        <a href="https://user-badge.committers.top/czech_republic/hrosicka">
+          <img src="https://user-badge.committers.top/czech_republic/hrosicka.svg" alt="Rank" height="28"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ### 👩‍💻 About Me & Status
