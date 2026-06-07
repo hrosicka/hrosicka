@@ -1,4 +1,4 @@
-## Welcome to the world of creativity and functionality!
+# Welcome to the world of creativity and functionality!
 
 <p align="center">
   <a href="https://user-badge.committers.top/czech_republic/hrosicka">
