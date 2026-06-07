@@ -1,12 +1,36 @@
 ## Welcome to the world of creativity and functionality!
 
-[![committers.top badge](https://user-badge.committers.top/czech_republic/hrosicka.svg)](https://user-badge.committers.top/czech_republic/hrosicka)
-![GitHub User](https://img.shields.io/badge/GitHub-hrosicka-orange?logo=github)
-![Code: Python](https://img.shields.io/badge/code-python-blue?logo=python)
-![Active User](https://img.shields.io/badge/status-active-brightgreen)
-![Czech Developer](https://img.shields.io/badge/czech-developer-red?logo=github)
+<p align="center">
+  <a href="https://user-badge.committers.top/czech_republic/hrosicka">
+    <table>
+      <tr>
+        <td><img src="https://img.shields.io/badge/TOP_COMMITTER-Czech_Republic-d7141a?style=for-the-badge&logo=github" alt="Top Committer"/></td>
+        <td><img src="https://user-badge.committers.top/czech_republic/hrosicka.svg" alt="Rank" height="28" style="vertical-align: middle;"/></td>
+      </tr>
+    </table>
+  </a>
+</p>
 
-Get inspired by engaging code created with 🐍Python, Django, Flask, Tkinter, Kivy, PyQt, Java, Swing, C++, Selenium, Cobol, and more.
+### 👩‍💻 About Me & Status
+[![GitHub](https://img.shields.io/badge/GitHub-hrosicka-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hrosicka)
+[![Developer](https://img.shields.io/badge/Czech-Developer-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hrosicka)
+[![Status](https://img.shields.io/badge/Status-Active%20Coding-brightgreen?style=for-the-badge)](https://github.com/hrosicka)
+
+### 🛠️ Core Technologies & Frameworks
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://riverbankcomputing.com/software/pyqt/)
+
+### 📚 Other Languages, Tools & Automation
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
+
+---
 
 ### Window into my coding world
 ### 🕹️ Games
